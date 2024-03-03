@@ -1,0 +1,24 @@
+table {
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 20px;
+}
+.colName {
+  color: #718ebf;
+  border-bottom: 1px solid #f4f5f7;
+}
+table th,
+table td {
+  padding: 27px 47px 10px 30px;
+  text-align: left;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+td {
+  margin-left: 20px;
+}
+main {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
